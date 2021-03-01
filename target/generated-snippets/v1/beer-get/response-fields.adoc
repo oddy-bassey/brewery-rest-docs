@@ -1,0 +1,28 @@
+|===
+|Path|Type|Description
+
+|`+id+`
+|`+class java.util.UUID+`
+|id of Beer
+
+|`+createdDate+`
+|`+class java.time.OffsetDateTime+`
+|Date created
+
+|`+lastUpdatedDate+`
+|`+class java.time.OffsetDateTime+`
+|Date updated
+
+|`+beerName+`
+|`+String+`
+|Beer name
+
+|`+beerStyle+`
+|`+String+`
+|Beer style
+
+|`+upc+`
+|`+Number+`
+|UPC of Beer
+
+|===
